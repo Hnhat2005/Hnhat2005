@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\quanlybanhang\\quanlybanhang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF4A34-FCF3-403D-AD34-DCA6333C050D}|quanlybanhang\\quanlybanhang.csproj|d:\\quanlybanhang\\quanlybanhang\\quanlybanhang\\models\\myshopmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{4ACF4A34-FCF3-403D-AD34-DCA6333C050D}|quanlybanhang\\quanlybanhang.csproj|solutionrelative:quanlybanhang\\models\\myshopmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyShopModel.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\quanlybanhang\\quanlybanhang\\quanlybanhang\\Models\\MyShopModel.edmx",
+              "RelativeDocumentMoniker": "quanlybanhang\\Models\\MyShopModel.edmx",
+              "ToolTip": "D:\\quanlybanhang\\quanlybanhang\\quanlybanhang\\Models\\MyShopModel.edmx [Diagram1]",
+              "RelativeToolTip": "quanlybanhang\\Models\\MyShopModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-10-27T05:09:31.236Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
